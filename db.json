@@ -23,6 +23,19 @@
             "text": "Cumple mama",
             "day": "1 de julio",
             "reminder": false
+        },
+        {
+            "id": 5,
+            "text": "Cumple Isa",
+            "day": "1 de julio",
+            "reminder": false
+        }
+        ,
+        {
+            "id": 6,
+            "text": "Cumple Pablo",
+            "day": "3 de septiembre",
+            "reminder": false
         }
     ]
 }
